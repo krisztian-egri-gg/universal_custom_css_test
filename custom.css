@@ -5,3 +5,7 @@ body {
 .edit-icon {
     fill: purple;
 }
+
+.required-icon {
+    color: orange;
+}
