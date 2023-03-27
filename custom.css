@@ -1,3 +1,7 @@
 body {
     --lumo-font-family: "Times New Roman";
 }
+
+.edit-icon {
+    fill: purple;
+}
