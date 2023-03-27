@@ -13,3 +13,7 @@ body {
 .required {
     color: pink;
 }
+
+.title.title__medium {
+    color: limegreen;
+}
