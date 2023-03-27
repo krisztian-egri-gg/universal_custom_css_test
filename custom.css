@@ -6,6 +6,10 @@ body {
     fill: purple;
 }
 
+.edit-icon.edit-icon-empty {
+    fill: brown;
+}
+
 .required-icon {
     color: orange;
 }
