@@ -9,3 +9,7 @@ body {
 .required-icon {
     color: orange;
 }
+
+.required {
+    color: pink;
+}
