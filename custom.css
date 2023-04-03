@@ -10,6 +10,14 @@ body {
     fill: brown;
 }
 
+.edit-icon.edit-icon-custom {
+    fill: lime;
+}
+
+.edit-icon.edit-icon-template {
+    fill: snow;
+}
+
 .required-icon {
     color: orange;
 }
