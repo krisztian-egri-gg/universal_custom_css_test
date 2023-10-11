@@ -29,3 +29,8 @@ body {
 .title.title__medium {
     color: limegreen;
 }
+
+#fastentry-header {
+    background-image: none;
+    background-color: #006B88;
+}
