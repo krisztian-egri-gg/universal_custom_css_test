@@ -1,10 +1,10 @@
 body {
     --lumo-font-family: "Times New Roman";
-    --field-background-color: lightblue;
-    --header-menubar--text-color: purple;
-    --fastentry-treegrid-label-color: pink;
-    --required-icon-color: red;
-    --required-selected-icon-color: green;
+    --field-background-color: lightblue !important;
+    --header-menubar--text-color: purple !important;
+    --fastentry-treegrid-label-color: pink !important;
+    --required-icon-color: red !important;
+    --required-selected-icon-color: green !important;
 }
 
 .edit-icon {
