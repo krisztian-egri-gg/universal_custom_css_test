@@ -1,5 +1,10 @@
 body {
     --lumo-font-family: "Times New Roman";
+    --field-background-color: lightblue;
+    --header-menubar--text-color: purple;
+    --fastentry-treegrid-label-color: pink;
+    --required-icon-color: red;
+    --required-selected-icon-color: green;
 }
 
 .edit-icon {
