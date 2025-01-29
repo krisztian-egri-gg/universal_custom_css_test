@@ -5,6 +5,8 @@ body {
     --fastentry-treegrid-label-color: pink !important;
     --required-icon-color: red !important;
     --required-selected-icon-color: green !important;
+    --fastentry-treegrid--active-label-color: orange !important;
+    --fastentry-treegrid--active-background-color: yellow !important;
 }
 
 .edit-icon {
